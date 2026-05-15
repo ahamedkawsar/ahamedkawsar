@@ -8,3 +8,4 @@
 - HTML
 - CSS
 - Bootstrap
+- Tailwind CSS
